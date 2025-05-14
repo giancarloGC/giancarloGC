@@ -1,24 +1,23 @@
+<!--
 ![Header](img/header.png)
-
-<p><strong>Desarrollador Full Stack</strong> con más de 7 años de experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas empresariales escalables y eficientes. Cuento con certificado <strong>Scrum Master</strong> y Diplomado en <strong>Gestión de Proyectos</strong>. </p>
+-->
+<p><strong>Desarrollador Full Stack</strong> con más de 3 años de experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas empresariales escalables y eficientes.</strong>. </p>
 
 # 🚀 **Habilidades Técnicas**
 
-- **Lenguajes & Frameworks:** Node.js, Angular, React, JavaScript, TypeScript, Python y PHP.
-- **Bases de Datos:** Oracle, MySQL, PostgreSQL y MongoDB.
-- **DevOps & Cloud:** Jenkins, Docker, Openshift, Azure, AWS, Git, Bitbucket, Jira y Sonar
-- **Metodologías ágiles:** Scrum y Kanban.
-- **Análisis de datos:** Tableau, KNIME, Excel Avanzado y Python.
+- **Lenguajes & Frameworks:** PHP, Laravel, JavaScript, y ReactJS.
+- **Bases de Datos:** PostgreSQL.
+- **Metodologías ágiles:** Scrum.
 
 # 🌐 **Idiomas**
 
 - **Español:** Nativo.
-- **Ingles:** B2 (Mejorando).
+- **Ingles:** B1 (Mejorando).
 
 # 📫 **Contáctame**:
-- ✉️ mateo.sandoval@axa.com.co
+- ✉️ dannygiancarlogc@gmail.com
 
-# 💼 **Empresa**:
+# 💼 **Empresa en la que laboro**:
 - 🔗 [Distribuciones AXA](https://www.distribucionesaxa.com.co/)
 
 ![Fin](img/fin.png)
